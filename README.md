@@ -1,6 +1,6 @@
-# Prueba Técnica Analista de calidad
+# Prueba Técnica Analista QA
 
-Este repositorio contiene la solución a una prueba técnica para el rol de Analista de Calidad de Software.
+Este repositorio contiene la solución a una prueba técnica para el rol de Analista QA.
 
 ## Alcance
 La prueba cubre:
